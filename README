@@ -1,0 +1,6 @@
+locktray - lock or unlock the CD tray. 
+
+usage:
+    "locktray lock" will lock the CD tray. 
+    "locktray unlock" will unlock the CD tray.
+
